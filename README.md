@@ -1,5 +1,5 @@
 # Basic-Pytorch
-A beginning with Pytorch tutorial, mainly from [Deep learning 60min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+A beginning with Pytorch tutorial, mainly from [Deep learning 60min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html), with extended explainations
 
 1. What is Pytorch ?
 2. Autograd
